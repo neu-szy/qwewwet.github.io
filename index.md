@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
 ```markdown
-![img](public/wyn.jpg)
+![image](https://github.com/qwewwet/qwewwet.github.io/blob/main/wyn.jpg)
 ```
 
